@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yujiaz.github.io/ephemeris/</loc>
-    <lastmod>2024-04-15T21:41:02-07:00</lastmod>
-  </url><url>
     <loc>https://yujiaz.github.io/ephemeris/posts/</loc>
     <lastmod>2023-07-04T23:09:38-07:00</lastmod>
   </url><url>
     <loc>https://yujiaz.github.io/ephemeris/posts/07032023/</loc>
+    <lastmod>2023-07-04T23:09:38-07:00</lastmod>
+  </url><url>
+    <loc>https://yujiaz.github.io/ephemeris/</loc>
     <lastmod>2023-07-04T23:09:38-07:00</lastmod>
   </url><url>
     <loc>https://yujiaz.github.io/ephemeris/posts/03192023/</loc>
@@ -29,8 +29,12 @@
     <loc>https://yujiaz.github.io/ephemeris/posts/%E5%8C%97%E5%8A%A0%E5%AF%BB%E7%A7%8B/</loc>
     <lastmod>2021-10-24T21:51:27-07:00</lastmod>
   </url><url>
+    <loc>https://yujiaz.github.io/ephemeris/about/</loc>
+  </url><url>
     <loc>https://yujiaz.github.io/ephemeris/categories/</loc>
   </url><url>
     <loc>https://yujiaz.github.io/ephemeris/tags/</loc>
+  </url><url>
+    <loc>https://yujiaz.github.io/ephemeris/%E5%8F%8B%E9%82%BB/</loc>
   </url>
 </urlset>
